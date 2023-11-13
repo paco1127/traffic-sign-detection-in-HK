@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>4-12.jpg</filename>
+	<path>/my-project-name/4-12.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>258</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Parking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>87</ymin>
+			<xmax>153</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Start Of No Stopping</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>91</ymin>
+			<xmax>179</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

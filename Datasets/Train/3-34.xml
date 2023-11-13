@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>3-34.jpg</filename>
+	<path>/my-project-name/3-34.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Two way</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>725</xmin>
+			<ymin>0</ymin>
+			<xmax>1105</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Give Way</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>723</xmin>
+			<ymin>191</ymin>
+			<xmax>1125</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>

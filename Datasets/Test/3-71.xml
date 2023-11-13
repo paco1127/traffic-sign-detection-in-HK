@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>3-71.jpg</filename>
+	<path>/my-project-name/3-71.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1224</width>
+		<height>918</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Give Way</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>923</xmin>
+			<ymin>347</ymin>
+			<xmax>1057</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>End Of No Stopping</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>751</xmin>
+			<ymin>249</ymin>
+			<xmax>794</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

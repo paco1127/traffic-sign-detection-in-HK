@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>7-1.jpg</filename>
+	<path>/my-project-name/7-1.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>340</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>One Way Traffic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>116</ymin>
+			<xmax>261</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>
